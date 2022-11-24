@@ -164,7 +164,7 @@
         "id" : 29,
         "title" : "Formula 1 Car",
         "price" : 15000000,
-        "imgSrc" : "./assets/images/Formula-1-car.jpeg"
+        "imgSrc" : "./assets/images/formula-1-car.jpeg"
     },
     {
         "id" : 30,
