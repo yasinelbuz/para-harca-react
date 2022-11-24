@@ -30,174 +30,168 @@
         "imgSrc" : "assets/images/lobster-dinner.jpeg"
     },
     {
-        "id" : 2,
+        "id" : 6,
         "title" : "Video Game",
         "price" : 60,
         "imgSrc" : "./assets/images/video-game.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 7,
         "title" : "Amazon Echo",
         "price" : 99,
         "imgSrc" : "./assets/images/amazon-echo.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 8,
         "title" : "Year of Netflix",
         "price" : 100,
         "imgSrc" : "./assets/images/year-of-netflix.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 9,
         "title" : "Air Jordans",
         "price" : 125,
         "imgSrc" : "./assets/images/air-jordans.jpeg"
     },{
-        "id" : 1,
+        "id" : 10,
         "title" : "Air Pods",
         "price" : 199,
         "imgSrc" : "assets/images/air-pods.jpeg"
     },
     {
-        "id" : 2,
+        "id" :11,
         "title" : "Gaming Console",
         "price" : 299,
         "imgSrc" : "./assets/images/gaming-console.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 12,
         "title" : "Drone",
         "price" : 350,
         "imgSrc" : "./assets/images/drone.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 13,
         "title" : "Smartphone",
         "price" : 699,
         "imgSrc" : "./assets/images/smartphone.jpeg"
     },   
     {
-        "id" : 5,
+        "id" : 14,
         "title" : "Bike",
         "price" : 800,
         "imgSrc" : "assets/images/bike.jpeg"
     },
     {
-        "id" : 2,
+        "id" : 15,
         "title" : "Auto Rickshaw",
         "price" : 2300,
         "imgSrc" : "./assets/images/auto-rickshaw.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 16,
         "title" : "Acre of Farmland",
         "price" : 3000,
         "imgSrc" : "./assets/images/acre-of-farmland.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 17,
         "title" : "Hot Tub",
         "price" : 6000,
         "imgSrc" : "./assets/images/hot-tub.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 18,
         "title" : "Diamond Ring",
         "price" : 10000,
         "imgSrc" : "./assets/images/diamond-ring.jpeg"
     } ,
     {
-        "id" : 1,
+        "id" : 19,
         "title" : "Jet Ski",
         "price" : 12000,
         "imgSrc" : "assets/images/jet-ski.jpeg"
     },
     {
-        "id" : 2,
+        "id" : 20,
         "title" : "Rolex",
         "price" : 15000,
         "imgSrc" : "./assets/images/rolex.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 21,
         "title" : "Ford F-150",
         "price" : 30000,
         "imgSrc" : "./assets/images/ford-f-150.jpeg"
     },
     {
-        "id" : 4,
+        "id" :22,
         "title" : "Tesla",
         "price" : 75000,
         "imgSrc" : "./assets/images/tesla.jpeg"
     },   
     {
-        "id" : 5,
+        "id" : 23,
         "title" : "Monster Truck",
         "price" : 150000,
         "imgSrc" : "assets/images/monster-truck.jpeg"
     },
     {
-        "id" : 2,
+        "id" : 24,
         "title" : "Ferrari",
         "price" : 250000,
         "imgSrc" : "./assets/images/ferrari.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 25,
         "title" : "Single Family Home",
         "price" : 300000,
         "imgSrc" : "./assets/images/single-family-home.jpeg"
     },
     {
-        "id" : 4,
-        "title" : "Year of Netflix",
-        "price" : 100,
-        "imgSrc" : "./assets/images/year-of-netflix.jpeg"
-    },
-    {
-        "id" : 4,
+        "id" : 27,
         "title" : "Yacht",
         "price" : 7500000,
         "imgSrc" : "./assets/images/yacht.jpeg"
     },{
-        "id" : 1,
+        "id" : 28,
         "title" : "M1 Abrams",
         "price" : 8000000,
         "imgSrc" : "assets/images/m1-abrams.jpeg"
         
     },
     {
-        "id" : 2,
+        "id" : 29,
         "title" : "Formula 1 Car",
         "price" : 15000000,
         "imgSrc" : "./assets/images/Formula-1-car.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 30,
         "title" : "Apache Helicopter",
         "price" : 31000000,
         "imgSrc" : "./assets/images/apache-helicopter.jpeg"
     },
     {
-        "id" : 4,
+        "id" : 31,
         "title" : "Boeing 747",
         "price" : 148000000,
         "imgSrc" : "./assets/images/boeing-747.jpeg"
     },   
     {
-        "id" : 5,
+        "id" : 32,
         "title" : "Cruise ",
         "price" : 930000000,
         "imgSrc" : "assets/images/cruise-ship.jpeg"
     },
     {
-        "id" : 2,
+        "id" : 33,
         "title" : "Skyscraper",
         "price" : 850000000,
         "imgSrc" : "./assets/images/skyscraper.jpeg"
     },
     {
-        "id" : 3,
+        "id" : 34,
         "title" : "NBA Team",
         "price" : 2120000000,
         "imgSrc" : "./assets/images/nba-team.jpeg"
