@@ -6,8 +6,8 @@ export default function Basket(props) {
 		<div className="bg-white mb-8 p-8 flex flex-col items-center">
 			<h1 className="font-bold text-lg mb-8">Your Receipt</h1>
 			<table className="w-[400px]">
-				{basket.map((item) => (
-					<tr className="border-b-4">
+				{basket.map((item, key) => (
+					<tr className="border-b-4" key={key}>
 						<td className="p-4">
 							{
 								products.find(
