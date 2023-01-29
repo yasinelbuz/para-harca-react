@@ -6,7 +6,10 @@
       "module": "es6", 
       "jsx": "react",   
       "target": "es5",
-      "allowJs": true 
+      "allowJs": true,
+      "moduleResolution":"node",
+      "resolveJsonModule": true,
+      "allowSyntheticDefaultImports" : true,
    },
     "include": [
         "./src/"

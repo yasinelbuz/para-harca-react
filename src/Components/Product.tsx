@@ -1,15 +1,23 @@
 import React, { useState, useEffect } from "react";
 
-export default function Product(props) {
+type propsTypes = {
+	children?: JSX.Element,
+	product?: object,
+	basket?: object[],
+	setBasket?: Function,
+	money?: number,
+}
+
+export default function Product(props:propsTypes) {
 	//props destruction
 	const { product, basket, setBasket, money } = { ...props };
 
 	//which product how much buy product
-	let productAmountTotal = basket.find((item) => item.id === product.id);
+	let productAmountTotal = basket!.find((item) => item.id === product!.id);
 
 	const changeProductCount = (e) => {
 		//is there product - check
-		let isThereProduct = basket.find((item) => item.id === product.id);
+		let isThereProduct = basket!.find((item) => item.id === product.id);
 
 		//if buy buttonu cliked
 		if (e.target.id == "increase") {
@@ -17,7 +25,7 @@ export default function Product(props) {
 			//increase amount
 			if (isThereProduct) {
 				//differnt variables because for setbasket
-				const updateBasket = basket.map((item) => {
+				const updateBasket = basket!.map((item) => {
 					return item.id === product.id
 						? { ...item, amount: item.amount + 1 }
 						: item;
